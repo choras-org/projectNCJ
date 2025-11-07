@@ -24,10 +24,10 @@ _Feel free to remove this section when you're done :)_
 
 This is where you can describe how you tackled the task
 
-- First we did..
-- Then we tried..
-- Finally we..
-- etc.
+- First we created a project repo and setup DOCKER with which we installed the CHORAS software.
+- Then we selected the right room and adjusted the settings.
+- Finally we did DE and DG simulations and did data analysis.
+- We calculated T30 for DG: 0.69048 sec
 
 ## Input settings
 
@@ -131,7 +131,7 @@ Please list any functionality issues you found:
 
 Below you can tell us your feedback or describe your experience of working with CHORAS today! Please start every bullet with **I like..** or **I wish/wonder..**
 
-- I like ..
-- I wish ..
-- I wonder ..
-- ..
+- We like that it's not very demanding on your pc and that the simulation pauses when pc goes into stand-by mode, so it starts where it left off when you return.
+- We wish for it to be possible to import and export JSON files of the materials, meshing, and source-receiver settings as well.
+- We wonder what the theoretical basis is of the DE and DG simulations is.
+
